@@ -98,6 +98,8 @@ Link da biblioteca: [BeautifulSoup](https://www.crummy.com/software/BeautifulSou
 **4.3 - Dashboard Final:**
 <img src= "img/dashboard_final.png"  width="1000">
 
+Notebook com o dashboard: [Notebook](final_data_analysis_dashboard.ipynb)
+
 ## 5 - Conclusions
 
 Você já deve ter ouvido falar que “Dados são o novo petróleo”, com web scraping nós temos acesso aos dados. Com os dados coletados podemos monitorar as tendências de mercado, coletar informações para captação de novos clientes, fazer previsões e muitas outras coisas.
